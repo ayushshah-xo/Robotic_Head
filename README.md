@@ -149,28 +149,10 @@ ollama pull tinyllama
 
 ---
 ## Folder structure
-Humanoid-Robot-/
-│
-├── 📄 main.py              → Entry point (run this to start the robot)
-├── ⚙️  config.yaml         → Local config (ignored, NEVER commit)
-├── ⚙️  config.example.yaml → Safe config template
-├── 📦 requirements.txt     → Python dependencies
-├── 🚫 .gitignore           → Ignore secrets & cache
-│
-├── 📁 docs/
-│   ├── 📖 quickstart.md        → First-time setup guide
-│   └── 🔌 hardware-setup.md    → Wiring + GPIO map
-│
-├── 📁 cad/
-│   └── 🖨️  *.stl / *.step      → 3D printable files
-│
-├── 📁 assets/              → (optional: sounds, models, etc.)
-│
-└── 📁 images/
-    ├── 🤖 robot-main.jpeg  → Front view
-    ├── 🧩 cad-design.png   → CAD render
-    └── 🔄 diagram.png      → System flow
-    
+<p align="center">
+  <img src="assest/images/Folder_Structure.png" width="800"/>
+</p>
+
 > ⚠️ config.yaml holds your API key — it is blocked by .gitignore and will never be pushed to GitHub. Only edit config.example.yaml when changing config structure.
 ---
 
