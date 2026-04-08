@@ -1,0 +1,5 @@
+adafruit-circuitpython-servokit
+groq
+SpeechRecognition
+pyaudio
+requests
