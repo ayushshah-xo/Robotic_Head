@@ -15,17 +15,6 @@
 
 ---
 
-## 🏷️ Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ayushshah-xo/humanoid-robot?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/ayushshah-xo/humanoid-robot?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/ayushshah-xo/humanoid-robot?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge">
-</p>
-
----
 
 ## 📸 Project Showcase
 
