@@ -148,6 +148,27 @@ ollama pull tinyllama
 > The robot automatically switches between Groq (online) and Ollama (offline) — no manual intervention needed.
 
 ---
+## Folder structure
+Humanoid-Robot-/
+│
+├── main.py                  ← entry point, run this to start the robot
+├── config.yaml              ← your local config (not tracked by git)
+├── config.example.yaml      ← safe template to share on GitHub
+├── requirements.txt         ← all Python dependencies
+├── .gitignore               ← keeps config.yaml and cache out of git
+│
+├── docs/
+│   ├── quickstart.md        ← step-by-step setup for first time users
+│   └── hardware-setup.md    ← wiring guide and GPIO pin map
+│
+├── cad/                     ← all 3D printable structural files
+│   └── *.stl / *.step
+│
+└── assets/
+└── images/
+├── robot-main.jpeg  ← front view photo
+├── cad-design.png   ← CAD render
+└── diagram.png      ← system flow diagram
 
 ---
 
