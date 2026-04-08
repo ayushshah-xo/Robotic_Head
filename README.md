@@ -47,9 +47,6 @@ Built on a **Raspberry Pi 4**, it is modular, expandable, and ideal for exhibiti
 
 ---
 
-## 🎥 Demo
-
-> 🔗 Add your video link here (YouTube / Google Drive)
 
 ---
 
