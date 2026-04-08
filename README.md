@@ -21,13 +21,12 @@
 <p align="center">
   <table>
     <tr>
-      <td><img src="assets/images/robot-main.jpg" width="250"/></td>
+      <td><img src="assets/images/robot-main.jpeg" width="250"/></td>
       <td><img src="assets/images/cad-design.png" width="250"/></td>
-      <td><img src="assets/images/robot-side.jpg" width="250"/></td>
     </tr>
     <tr>
       <td><img src="assets/images/diagram.png" width="250"/></td>
-      <td><img src="assets/images/robot-main.jpg" width="250"/></td>
+      <td><img src="assets/images/robot-main.jpeg" width="250"/></td>
       <td><img src="assets/images/cad-design.png" width="250"/></td>
     </tr>
   </table>
