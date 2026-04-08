@@ -37,7 +37,7 @@ Built on a **Raspberry Pi 4**, it is designed to be modular, expandable, and sui
 
 ## ✨ Features
 
-* 🧠 AI Voice Assistant (Jarvis-style)
+* 🧠 AI Voice Assistant (Both Online and Offline)
 * 🤖 Facial Expression System (eyes, eyebrows, mouth)
 * ⚙️ Multi-servo motor control
 * 🔊 Real-time audio interaction
@@ -52,8 +52,9 @@ Built on a **Raspberry Pi 4**, it is designed to be modular, expandable, and sui
 * Servo Motors
 * Microphone
 * Speaker
-* Power Supply
+* Power Supply(5V)
 * Custom 3D Printed Parts
+* Survo Driver
 
 ---
 
@@ -125,10 +126,6 @@ python3 main.py
 
 All CAD files are available in the `/cad` folder.
 
-* 3D printable
-* Easy to assemble
-* Customizable
-
 ---
 
 ## 🎯 Applications
@@ -164,7 +161,7 @@ MIT License
 ## 👤 Author
 
 **mount**
-https://github.com/your-username
+https://github.com/ayushshah-xo
 
 ---
 
