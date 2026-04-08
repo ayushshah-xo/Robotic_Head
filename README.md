@@ -1,7 +1,7 @@
 <!-- 🔥 Banner -->
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="Humanoid Robot Banner" width="100%">
+  <img src="assets/banner.png" alt="Gemini_Generated_Image_hzcjhthzcjhthzcj.png" width="100%">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Powered+Humanoid+Robot;Voice+Assistant+%2B+Facial+Expressions;Built+with+Raspberry+Pi+4;Exhibition+Ready+Project">
