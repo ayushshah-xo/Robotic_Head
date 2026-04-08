@@ -23,12 +23,12 @@
     <tr>
       <td><img src="images/Gemini_Generated_Image_i81mdpi81mdpi81m.png" width="250"/></td>
       <td><img src="Gemini_Generated_Image_kq51r6kq51r6kq51.png" width="250"/></td>
-      <td><img src="my_robbot .jpeg" width="250"/></td>
+      <td><img src="my_robbot.jpeg" width="250"/></td>
     </tr>
     <tr>
       <td><img src="images/Screenshot 2026-01-12 215728.png" width="250"/></td>
-      <td><img src="my robbot .jpeg" width="250"/></td>
-      <td><img src="my robbot .jpeg" width="250"/></td>
+      <td><img src="my_robbot.jpeg" width="250"/></td>
+      <td><img src="my_robbot.jpeg" width="250"/></td>
     </tr>
   </table>
 </p>
