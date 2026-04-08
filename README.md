@@ -150,7 +150,7 @@ ollama pull tinyllama
 ---
 ## Folder structure
 <p align="center">
-  <img src="assest/images/Folder_Structure.png" width="800"/>
+  <img src="assets/images/Folder_Structure.png" width="800"/>
 </p>
 
 > ⚠️ config.yaml holds your API key — it is blocked by .gitignore and will never be pushed to GitHub. Only edit config.example.yaml when changing config structure.
