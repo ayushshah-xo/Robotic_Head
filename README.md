@@ -45,10 +45,6 @@ The robot can:
 
 Built on a **Raspberry Pi 4**, it is modular, expandable, and ideal for exhibitions and learning.
 
----
-
-
----
 
 ## ✨ Features
 
