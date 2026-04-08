@@ -27,8 +27,8 @@
     </tr>
     <tr>
       <td><img src="images/Screenshot 2026-01-12 215728.png" width="250"/></td>
-      <td><img src="images/robot5.jpg" width="250"/></td>
-      <td><img src="images/robot6.jpg" width="250"/></td>
+      <td><img src="my robbot .jpeg" width="250"/></td>
+      <td><img src="my robbot .jpeg" width="250"/></td>
     </tr>
   </table>
 </p>
