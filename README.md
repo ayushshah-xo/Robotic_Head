@@ -1,43 +1,77 @@
-# 🤖 Humanoid Robot – AI Powered Expressive Robot
+<!-- 🔥 Banner -->
 
-> A fully interactive humanoid robot capable of real-time voice conversation, expressive facial animation, and modular hardware control.
+<p align="center">
+  <img src="assets/images/banner.png" alt="Humanoid Robot Banner" width="100%">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Powered+Humanoid+Robot;Voice+Assistant+%2B+Facial+Expressions;Built+with+Raspberry+Pi+4;Exhibition+Ready+Project">
+</p>
+
+<h1 align="center">🤖 Humanoid Robot – AI Powered Expressive Robot</h1>
+
+<p align="center">
+  <b>A fully interactive humanoid robot capable of real-time voice conversation, expressive facial animation, and modular hardware control.</b>
+</p>
+
+---
+
+## 🏷️ Badges
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayushshah-xo/humanoid-robot?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/ayushshah-xo/humanoid-robot?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/ayushshah-xo/humanoid-robot?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-Raspberry%20Pi-red?style=for-the-badge">
+</p>
 
 ---
 
 ## 📸 Project Showcase
 
-![Robot Image](assets/images/robot1.jpg)
-![Robot Image](assets/images/robot2.jpg)
-![Robot Image](assets/images/robot3.jpg)
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="assets/images/robot1.jpg" width="250"/></td>
+      <td><img src="assets/images/robot2.jpg" width="250"/></td>
+      <td><img src="assets/images/robot3.jpg" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="assets/images/robot4.jpg" width="250"/></td>
+      <td><img src="assets/images/robot5.jpg" width="250"/></td>
+      <td><img src="assets/images/robot6.jpg" width="250"/></td>
+    </tr>
+  </table>
+</p>
 
-> Add more images as needed for better presentation
+> 📌 Add or remove images as needed (just keep filenames consistent)
 
 ---
 
 ## 📖 Overview
 
-This project is a custom-built **humanoid robot** that combines mechanical design (CAD), embedded systems, and AI-powered voice interaction.
+This project is a custom-built **humanoid robot** that combines **mechanical design (CAD), embedded systems, and AI-powered voice interaction**.
 
 The robot can:
 
-* Listen to human speech 🎤
-* Generate intelligent responses 🧠
-* Speak using text-to-speech 🔊
-* Animate facial expressions using servo motors 🤖
+* 🎤 Listen to human speech
+* 🧠 Generate intelligent responses
+* 🔊 Speak using text-to-speech
+* 🤖 Animate facial expressions using servo motors
 
-Built on a **Raspberry Pi 4**, it is designed to be modular, expandable, and suitable for exhibitions and learning.
+Built on a **Raspberry Pi 4**, it is modular, expandable, and ideal for exhibitions and learning.
 
 ---
 
 ## 🎥 Demo
 
-> Add your video link here (YouTube / Drive)
+> 🔗 Add your video link here (YouTube / Google Drive)
 
 ---
 
 ## ✨ Features
 
-* 🧠 AI Voice Assistant (Both Online and Offline)
+* 🧠 AI Voice Assistant (**Online + Offline**)
 * 🤖 Facial Expression System (eyes, eyebrows, mouth)
 * ⚙️ Multi-servo motor control
 * 🔊 Real-time audio interaction
@@ -52,9 +86,9 @@ Built on a **Raspberry Pi 4**, it is designed to be modular, expandable, and sui
 * Servo Motors
 * Microphone
 * Speaker
-* Power Supply(5V)
+* 5V Power Supply
 * Custom 3D Printed Parts
-* Survo Driver
+* Servo Driver
 
 ---
 
@@ -105,7 +139,7 @@ humanoid-robot/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/humanoid-robot.git
+git clone https://github.com/ayushshah-xo/humanoid-robot.git
 cd humanoid-robot
 pip install -r requirements.txt
 python3 main.py
@@ -126,23 +160,27 @@ python3 main.py
 
 All CAD files are available in the `/cad` folder.
 
+* 🧱 3D Printable
+* 🔧 Easy Assembly
+* 🛠️ Customizable
+
 ---
 
 ## 🎯 Applications
 
-* Robotics Exhibitions
-* School / College Projects
-* AI Assistants
-* Research
+* 🏫 Robotics Exhibitions
+* 🎓 School / College Projects
+* 🤖 AI Assistants
+* 🔬 Research
 
 ---
 
 ## 🔮 Future Improvements
 
-* Face recognition
-* Mobile app control
-* Emotion AI
-* Autonomous movement
+* 👁️ Face recognition
+* 📱 Mobile app control
+* 😊 Emotion AI
+* 🚶 Autonomous movement
 
 ---
 
@@ -160,11 +198,11 @@ MIT License
 
 ## 👤 Author
 
-**mount**
-https://github.com/ayushshah-xo
+**Ayush Shah**
+🔗 https://github.com/ayushshah-xo
 
 ---
 
 ## ⭐ Support
 
-Give this repo a star ⭐ if you like it!
+If you like this project, give it a ⭐ on GitHub!
