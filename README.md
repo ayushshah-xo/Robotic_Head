@@ -134,10 +134,6 @@ Feel free to fork and contribute!
 
 ---
 
-## 📜 License
-
-MIT License
-
 ---
 
 ## 👤 Author
