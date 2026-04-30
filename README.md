@@ -39,11 +39,10 @@ No cloud subscriptions. No black-box kits. Every part designed, printed, and cod
 
 ## Demo
 
-https://github.com/ayushshah-xo/Humanoid-Robot-/assets/demo/facial-expressions.mp4
+https://github.com/ayushshah-xo/Humanoid-Robot-/assets/facial-expressions.mp4
 
 > Servo-driven facial expressions running in real time — eyes, eyebrows, and mouth animated independently.
 >
-> **To add this video:** rename your clip to `facial-expressions.mp4` and drag-and-drop it into the `assets/demo/` folder on GitHub. It will embed and autoplay inline.
 
 ---
 ## Features
