@@ -191,8 +191,6 @@ If you improve a module or add a new one, open a PR — this project is meant to
 
 ---
 
-"center">
-
 If this project helped you or inspired you — a ⭐ goes a long way.
 
 </div>
