@@ -191,14 +191,7 @@ If you improve a module or add a new one, open a PR — this project is meant to
 
 ---
 
-## Author
-
-**Ayush Shah** — [github.com/ayushshah-xo](https://github.com/ayushshah-xo)
-**Will Cogley** — https://github.com/will-cogley
-
----
-
-<div align="center">
+"center">
 
 If this project helped you or inspired you — a ⭐ goes a long way.
 
